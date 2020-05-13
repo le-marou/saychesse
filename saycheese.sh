@@ -122,7 +122,7 @@ printf "\e[1;93m[!] Download error... Termux, run:\e[0m\e[1;77m pkg install wget
 exit 1
 fi
 
-elif [[ $arch3 == *'64bit'* ]] ; then
+elif [[ $arch3 == *'amd64'* ]] ; then
 
 wget --no-check-certificate https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
 
