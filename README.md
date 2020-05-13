@@ -1,4 +1,7 @@
-# SayCheese v1.0
+# SayCheese v1.2
+## Author: https://github.com/thelinuxchoice/saycheese
+## Twitter: https://twitter.com/linux_choice
+
 Take webcam shots from target just sending a malicious link
 
 ![sch](https://user-images.githubusercontent.com/34893261/81830116-10add880-9512-11ea-946e-3643db8c1bba.png)
